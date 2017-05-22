@@ -12,7 +12,5 @@ package meteorologia;
 public class IUM {
     private Ciudad [] ciudades = new Ciudad [12];
     
-    public void Registro (EstacionM es){
-      
-    }
+   
 }
